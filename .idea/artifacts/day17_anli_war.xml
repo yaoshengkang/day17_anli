@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="day17_anli:war">
+    <output-path>$PROJECT_DIR$/day17_anli/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>day17_anli</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="day17_anli-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="day17_anli:war exploded" />
+    </root>
+  </artifact>
+</component>
